@@ -1,0 +1,27 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": ">Note: we must be able to compile and/or run the code. No BINARY files are within the code. External libraries should be automatically downloaded (e.g., via Maven, npm, pip, docker pull)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaibiPeng/BDP-cs-e4640-Assignment1.git"
+  },
+  "author": "Haibi Peng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaibiPeng/BDP-cs-e4640-Assignment1/issues"
+  },
+  "homepage": "https://github.com/HaibiPeng/BDP-cs-e4640-Assignment1#readme",
+  "dependencies": {
+    "@google-cloud/bigquery": "^5.5.0",
+    "csvtojson": "^2.0.10",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.6.4",
+    "node-fetch": "^2.6.1"
+  }
+}
