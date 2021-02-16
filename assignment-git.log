@@ -1,3 +1,28 @@
+commit f4a8a2b6187ae093e020e13295bada6597fbd7e1
+Merge: 6f5d27c 82fc29a
+Author: pengh1 <haibi.peng@aalto.fi>
+Date:   Tue Feb 16 17:19:15 2021 +0200
+
+    Merge branch 'master' of https://github.com/HaibiPeng/BDP-cs-e4640-Assignment1
+
+commit 6f5d27cd83d7b50b01e995720cba667bddf086e3
+Author: pengh1 <haibi.peng@aalto.fi>
+Date:   Tue Feb 16 17:18:38 2021 +0200
+
+    report and other logs
+
+commit 82fc29afd0c535e1679d341dcc0ebd59735964f3
+Author: HaibiPeng <73317057+HaibiPeng@users.noreply.github.com>
+Date:   Tue Feb 16 17:17:03 2021 +0200
+
+    Delete code/node_modules directory
+
+commit 6ef119fbea94d100ac65aec62f54fede278b5039
+Author: pengh1 <haibi.peng@aalto.fi>
+Date:   Tue Feb 16 17:14:55 2021 +0200
+
+    test code & report
+
 commit c476f44c8cf56c26e1328f480f484410037c182d
 Author: pengh1 <haibi.peng@aalto.fi>
 Date:   Mon Feb 15 18:04:52 2021 +0200
