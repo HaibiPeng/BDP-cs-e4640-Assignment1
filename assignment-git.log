@@ -1,2 +1,5 @@
-the content of this file should be the output of the log of your own git project for this assignment
-using git log command to export your git log
+commit c476f44c8cf56c26e1328f480f484410037c182d
+Author: pengh1 <haibi.peng@aalto.fi>
+Date:   Mon Feb 15 18:04:52 2021 +0200
+
+    ingestion code
