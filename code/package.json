@@ -19,6 +19,8 @@
   "homepage": "https://github.com/HaibiPeng/BDP-cs-e4640-Assignment1#readme",
   "dependencies": {
     "@google-cloud/bigquery": "^5.5.0",
+    "async": "^3.2.0",
+    "cluster": "^0.7.7",
     "csvtojson": "^2.0.10",
     "fs": "0.0.1-security",
     "mongodb": "^3.6.4",
